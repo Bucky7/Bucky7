@@ -15,12 +15,6 @@
 </div>
 
  ## 
-  **social networks:**
-
-  <a href="https://www.youtube.com/channel/UCUmsVfwfI0TWiOQV6v5AkTA" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-</div>
-
-
 
   
 
